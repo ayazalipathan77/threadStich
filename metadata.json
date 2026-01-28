@@ -1,0 +1,5 @@
+{
+  "name": "TextileValidator",
+  "description": "A SendCutSend-style validator for apparel tech packs, fabric compatibility, and costing intelligence using Gemini AI.",
+  "requestFramePermissions": []
+}
